@@ -1,2 +1,1 @@
-# test
-Test thôi mà
+# Huong dan Git co ban
